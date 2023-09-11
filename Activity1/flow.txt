@@ -1,0 +1,16 @@
+Choices (i do while lang sila tagsa2 and i end siya / logout)
+1. customer 
+2. admin
+
+(customer)
+logIn();
+    (option 1)
+    place Order
+    
+    confirmed Order
+    logout
+
+logOut();
+
+(admin)
+
